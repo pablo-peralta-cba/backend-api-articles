@@ -1,4 +1,4 @@
-# 🧱 backend-api-articulos
+# 🧱 backend-api-articles
 
 API RESTful desarrollada con **Node.js** y **TypeScript** para la gestión de artículos. Diseñada con un enfoque en **escalabilidad**, **mantenibilidad** y **buenas prácticas de desarrollo backend**.
 
